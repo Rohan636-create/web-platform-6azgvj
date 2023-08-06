@@ -6,7 +6,7 @@
 .box{
   background-color: blue ;
   width:  100px;
-  height: 50px;
+  height: 5px;
   position: relative;
   animation-name: smallbox;
   animation-duration: 5s;
